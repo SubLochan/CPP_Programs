@@ -1,0 +1,70 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+*.elf
+
+# Object files
+*.o
+*.obj
+*.lo
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Debug files
+*.pdb
+*.idb
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Build folders
+build/
+bin/
+Debug/
+Release/
+cmake-build-*/
+out/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.sln
+*.vcxproj*
+*.filters
+*.user
+
+# Code::Blocks
+*.cbp
+*.layout
+*.depend
+
+# CLion
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
